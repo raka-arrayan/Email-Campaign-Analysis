@@ -1,1 +1,3 @@
 # Email-Campaign-Analysis
+
+This dataset aims to analyze and improve the effectiveness of email campaigns by studying various factors that influence whether emails are opened or not by customers. The analysis includes elements such as email type, subject HOTNESS  score, email source, customer location, campaign type, Total_Past_Communications, time of email sending, Time_Email_sent_Category, Word_Count,Total_Links and images,email status. By analyzing this data, companies can gain useful insights to design more engaging email campaigns, optimize send times, and personalize emails based on customer preferences, thereby increasing open rates and customer engagement.
